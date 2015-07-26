@@ -1,0 +1,19 @@
+{
+  "name": "bug-stream-replace",
+  "version": "1.0.0",
+  "description": "Bug with large file using stream-replace package",
+  "main": "index.js",
+  "dependencies": {
+    "stream-replace": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bug-stream-replace"
+  },
+  "author": "Xavier Garcia Buils <xgbuils@gmail.com>",
+  "license": "ISC"
+}
